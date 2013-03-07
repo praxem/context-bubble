@@ -1,0 +1,13 @@
+.contextBubble { background: url("../../images/context-bubble/themes/yellow/bg.png") repeat-x scroll 0 0 #FFE5A9; }
+
+.contextBubble .left { background: url("../../images/context-bubble/themes/yellow/arrows.png") 0px -3px; }
+.contextBubble .small-left { background: url("../../images/context-bubble/themes/yellow/arrows.png") 0px -204px; }
+.contextBubble .right { background: url("../../images/context-bubble/themes/yellow/arrows.png") -17px -86px; } 
+.contextBubble .small-right { background: url("../../images/context-bubble/themes/yellow/arrows.png") -17px -164px; } 
+.contextBubble .bottom { background: url("../../images/context-bubble/themes/yellow/arrows.png") -6px -131px; height: 25px; width: 35px; }
+.contextBubble .top { background: url("../../images/context-bubble/themes/yellow/arrows.png") -4px -43px; height: 27x; width: 35px; }
+
+.contextBubbleClose { background: url(../../images/context-bubble/themes/yellow/button.png) 0px 0px; }
+.contextBubbleNext { background: url(../../images/context-bubble/themes/yellow/button.png) -20px 0px; }
+
+#helpBubbleCommonClose { background: url(../../images/context-bubble/themes/yellow/button.png) 0px 0px; }
